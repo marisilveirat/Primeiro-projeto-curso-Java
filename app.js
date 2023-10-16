@@ -24,3 +24,5 @@ mostra("Mariana nasceu em " + (year * 1));
 mostra("Tenho, então, " + (year - yeara) + " anos");
 
 </script>
+
+boa noite de novo
