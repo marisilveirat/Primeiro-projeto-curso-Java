@@ -3,7 +3,8 @@ Descubra visitando o Alura <a href="https://cursos.alura.com.br/dashboard">aqui<
 <br> 
 <br>
 <meta charset="utf-8">
-
+	
+<script>
 
 function pulalinha() {
 	document.write("<br><br>");
@@ -21,3 +22,5 @@ mostra("Mari tem " + (year - 1999) + " anos");
 yeara = 1999
 mostra("Mariana nasceu em " + (year * 1));
 mostra("Tenho, então, " + (year - yeara) + " anos");
+
+</script>
